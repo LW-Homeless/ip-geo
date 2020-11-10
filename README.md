@@ -52,10 +52,8 @@ Por último, digitamos 2 "Consultar IP" ingresamos la direccion IP a consultar.
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto4.PNG)
 
 ------------
-<<<<<<< HEAD
 Finalmente, obtenemos los resultados.
 =======
 Finamente, obternemos los resultados.
->>>>>>> cafefe5136809bbf60908cc9f31f6aceb1d130ed
 
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto5.PNG)
