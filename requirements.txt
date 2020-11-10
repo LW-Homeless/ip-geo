@@ -1,0 +1,17 @@
+aiohttp==3.6.3
+async-timeout==3.0.1
+attrs==20.2.0
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.4
+geographiclib==1.50
+geoip2==4.1.0
+geopy==2.0.0
+idna==2.10
+maxminddb==2.0.3
+multidict==4.7.6
+requests==2.24.0
+tabulate==0.8.7
+typing-extensions==3.7.4.3
+urllib3==1.25.11
+yarl==1.5.1
