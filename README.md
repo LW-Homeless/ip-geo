@@ -43,11 +43,19 @@ Una vez digitada presionamos "Enter" y se mostrará nuevamente el menu de la apl
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto3.PNG)
 
 ------------
+<<<<<<< HEAD
 Por último, digitamos 2 "Consultar IP" ingresamos la dirección IP a consultar.
+=======
+Por último, digitamos 2 "Consultar IP" ingresamos la direccion IP a consultar.
+>>>>>>> cafefe5136809bbf60908cc9f31f6aceb1d130ed
 
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto4.PNG)
 
 ------------
+<<<<<<< HEAD
 Finalmente, obtenemos los resultados.
+=======
+Finamente, obternemos los resultados.
+>>>>>>> cafefe5136809bbf60908cc9f31f6aceb1d130ed
 
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto5.PNG)
