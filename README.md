@@ -1,15 +1,15 @@
 # IP-GEO
-Sencilla herramienta para Geoposicionar una direccion IP. La herramienta puede obterner las coordenadas y dirección de una dirección IP. entre los registro que se pueden optener son los siguientes:
+Sencilla herramienta para Geoposicionar una dirección IP. La herramienta puede obterner las coordenadas y dirección de una dirección IP. Entre los registro que se pueden optener son los siguientes:
 
-- Ubicacion a nivel Continental.
-- Ubicacion a nivel País.
-- Ubicacion a nivel Ciudad.
-- Direccion, coordenadas y zonas horaria.
+- Ubicación a nivel Continental.
+- Ubicación a nivel País.
+- Ubicación a nivel Ciudad.
+- Dirección, coordenadas y zonas horaria.
 - Código Postal.
 - Otra Información.
 
 # Requerimientos
-- Para utilizar IP-GEO debe contar con una API-KEY de Maxmind, este último es requerido para la actualizacion automatica de las bases de datos que utiliza IP-GEO. Para obtener una API-KEY de Maxmind debe registrarse en Maxmind en el siguiente enlace https://www.maxmind.com/en/geolite2/signup
+- Para utilizar IP-GEO debe contar con una API-KEY de Maxmind, este último es requerido para la actualización automática de las bases de datos que utiliza IP-GEO. Para obtener una API-KEY de Maxmind debe registrarse en Maxmind en el siguiente enlace https://www.maxmind.com/en/geolite2/signup
 
 - Python 3.7.8.x o superior
 - setuptools.
@@ -29,21 +29,25 @@ python Main.py
 
 ------------
 Se mostrará la siguiente pantalla.
-Foto1
+
+![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto1.PNG)
 
 ------------
 Digitamos 1 "Ingresar API-KEY Maxmind", se le pedira ingresar la API-KEY Maxmind asignada (ver sección requerimientos). una vez digitada presionamos "Enter" y se mostrará nuevamente el menu de la aplicación.
-Foto2
+
+![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto2.PNG)
 
 ------------
 Una vez digitada presionamos "Enter" y se mostrará nuevamente el menu de la aplicación.
-Foto3
+
+![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto3.PNG)
 
 ------------
-Por último, digitamos 2 "Consultar IP" ingresamos la direccion IP a consultar.
-Foto3
-foto4
+Por último, digitamos 2 "Consultar IP" ingresamos la dirección IP a consultar.
+
+![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto4.PNG)
 
 ------------
-Finamente, obternemos los resultados.
-foto5
+Finalmente, obtenemos los resultados.
+
+![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto5.PNG)
