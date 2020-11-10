@@ -29,20 +29,25 @@ python Main.py
 
 ------------
 Se mostrará la siguiente pantalla.
+
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto1.PNG)
 
 ------------
 Digitamos 1 "Ingresar API-KEY Maxmind", se le pedira ingresar la API-KEY Maxmind asignada (ver sección requerimientos). una vez digitada presionamos "Enter" y se mostrará nuevamente el menu de la aplicación.
+
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto2.PNG)
 
 ------------
 Una vez digitada presionamos "Enter" y se mostrará nuevamente el menu de la aplicación.
+
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto3.PNG)
 
 ------------
 Por último, digitamos 2 "Consultar IP" ingresamos la direccion IP a consultar.
+
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto4.PNG)
 
 ------------
 Finamente, obternemos los resultados.
+
 ![alt text](https://github.com/LW-Homeless/ip-geo/blob/main/img/foto5.PNG)
